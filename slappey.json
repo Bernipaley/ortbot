@@ -1,0 +1,7 @@
+{
+  "name": "ort-bot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "",
+  "prefix": "o!"
+}
